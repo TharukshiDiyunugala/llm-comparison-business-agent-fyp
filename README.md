@@ -3,7 +3,7 @@
 This experiment evaluated four LLMs — **LLaMA 3.2 (1B)**, **Mistral 7B**, **DeepSeek Coder 1.3B**, and **Gemini 2.5 Flash** — after LoRA fine-tuning using a domain-specific Q&A dataset designed for business agent interaction.
 
 ### 🔍 Overall Comparison
-![Model Comparison Overview](results/model_comparison_heatmap.png)
+![Model Comparison Overview](results/model_comparison_overview.png)
 
 ### 📊 Individual Metric Analysis
 
